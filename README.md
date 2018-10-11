@@ -3,7 +3,7 @@
 This is a website to promote the release of The Brain Stages, a book about raising children in USA grades kindergarten through 6th grade according to the most recent brain research and educational techniques. It features promotional information and materials about the book, as well as a blog and free giveaway content in the form of videos and a PDF sent to the user's inbox.
 
 ## Developer
-Alia Wilkinson
+* Alia Wilkinson
 
 ## Feature List
 * Home and About Pages
