@@ -6,18 +6,18 @@ This is a website to promote the release of The Brain Stages, a book about raisi
 Alia Wilkinson
 
 ## Feature List
-Get location with Google Geolocation (if enabled)
-Set location by City, State, or Zip Code
-Search restaurants by your favorite style of beer
-Get directions to the returned results by clicking on one of the custom markers and selecting Directions
-Each result provides an external link to Yelp for further review
+* Home and About Pages
+* Posts/blog page
+* Button for giveaways
+* Social Media buttons
+* Contact form
 
 ## Technologies
-PHP
-JavaScript
-HTML
-CSS
-Twitter Bootstrap
-Wordpress - local development environment
-Bluehost
-GoDaddy domain services
+* PHP
+* JavaScript
+* HTML
+* CSS
+* Twitter Bootstrap
+* Wordpress - local development environment
+* Bluehost
+* GoDaddy domain services
