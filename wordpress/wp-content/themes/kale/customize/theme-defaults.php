@@ -10,7 +10,7 @@ global $kale_defaults;
 
 $kale_defaults['kale_custom_header']                    = esc_url( get_template_directory_uri() ) . '/sample/images/header.jpg';
 
-$kale_defaults['kale_footer_copyright']                 = esc_html__('Copyright &copy; ', 'kale'). date('Y') .' <a href="https://www.lyrathemes.com/kale/">Kale</a>';
+// $kale_defaults['kale_footer_copyright']                 = esc_html__('Copyright &copy; ', 'kale'). date('Y') .' <a href="https://www.lyrathemes.com/kale/">Kale</a>';
 $kale_defaults['kale_nav_search_icon']                  = 1;
 $kale_defaults['kale_example_content']					= 1;
 $kale_defaults['kale_dropdown_node_enable']             = 0;
