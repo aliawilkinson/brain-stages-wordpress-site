@@ -109,8 +109,21 @@
                 </nav>
             </div>
             <!-- /Header Row 3 -->
-            
-            
+			<!-- custom button -->
+            <button style="
+			   display: block; 
+			   margin: auto; 
+			   text-decoration:none; 
+			   margin-bottom: 2vh; padding: 5px;
+			   font-family: 'Lato', sans-serif;
+    			color: #545454;
+    			font-size: 3vmin;
+			   background-color: #331D6E;">
+			<a style="color:white;" target="_blank" href="https://thebrainstages.us15.list-manage.com/subscribe?u=343d8cd6e346b50a86cc67d1b&amp;id=6791140e42">
+				Click for Five Tips To Help Your Kids Ace Tests
+				</a>
+			</button>
+            <!-- end of custom button -->
         </div>
         <!-- /Header -->
         
